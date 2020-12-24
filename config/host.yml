@@ -1,0 +1,5 @@
+host:
+  prod: 'https://m.video.9ddm.com'
+  yulan: 'http://api.video.n.duokanbox.com'
+  test1: 'http://test.mv3.tv.mitvos.com'
+

@@ -1,0 +1,20 @@
+play_record:
+  send_recoord:
+    right: [{
+              "cp": "iqiyi",
+              "last_play_time": 1608560826582,
+              "play_count": 2,
+              "progress": 333,
+              "ref": "com.miui.video",
+              "video": "nv-00004@NV000000713475",
+              "video_id": "NV000000713475"
+            }]
+              "cp": "",
+              "last_play_time": 1608560826582,
+              "play_count": 2,
+              "progress": 333,
+              "ref": "com.miui.video",
+              "video": "nv-00004@NV000000713475",
+              "video_id": "NV000000713475"
+  }
+  ]
